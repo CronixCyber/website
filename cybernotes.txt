@@ -1,0 +1,54 @@
+Windows Commands
+Directory
+• cd - Change the current directory
+• dir - List files in current directory
+• mkdir - Create a directory
+• ren - Rename a file
+
+
+Linux Commands
+Directory
+• cd - Change the current directory
+• ls - List directories
+• mkdir - Create a directory
+• cp - Copy File
+• mv - Move File
+• rm - Remove File
+• pwd - Display Name of Directory
+
+• cat - Display File Content
+• pwd - Display Directory Name
+• sudo - Run command as super user
+• su - Login as other user
+• chmod - File permissions
+• chown - File Ownership
+• ifconfig - Display Network Card Info
+• iwconfig - Display Wireless Network Info
+• passwd - Change Password
+• shutdown - Shutdown
+
+
+Cisco Configuration
+• Ctrl+Shift+6 - Stop Translation
+
+
+
+
+
+
+
+
+
+Windows Commands
+        <br>Directory
+        <br>• cd - Change the current directory
+        <br>• dir - List files in current directory
+        <br>• mkdir - Create a directory
+        <br>• ren - Rename a file
+
+        <p class="notestext">
+
+
+
+
+        </p>
