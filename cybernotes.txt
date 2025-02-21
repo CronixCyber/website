@@ -27,6 +27,19 @@ Directory
 • passwd - Change Password
 • shutdown - Shutdown
 
+• ps - Display running processes
+• top - Keep displaying processes dynamically
+• kill - Modify behavior (remove, restart, pause)
+• ls -l | grep host / ls -l | grep file
+
+Tools
+• Package Managers - pacman(Arch), dpkg, apt
+Commands:
+• apt intall - Install Package
+• apt Remove - Remove Package
+• apt-get update - Update Local Package
+• apt-get upgrade - Upgrade all installed Packages
+
 
 Cisco Configuration
 • Ctrl+Shift+6 - Stop Translation

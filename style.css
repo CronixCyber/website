@@ -51,6 +51,7 @@ p {
     text-align: center;
     border-color: black;
     border-width: 5px;
+    margin-top: 20px;
 }
 
 .sidenavlinks:hover {
@@ -115,4 +116,11 @@ td, th {
     border: 2px solid rgb(255, 255, 255);
     text-align: left;
     padding: 8px;
+}
+.generallinks {
+    color: white;
+    text-decoration: none;
+}
+.generallinks:hover {
+    color: red;
 }
