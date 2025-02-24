@@ -124,3 +124,11 @@ td, th {
 .generallinks:hover {
     color: red;
 }
+#secret{
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+#secret:hover {
+    color: rgb(112, 112, 112);
+
+}
