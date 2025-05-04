@@ -18,9 +18,7 @@ body {
     font-size: 16;
 }
 .navlinks:hover {
-    /*background-color: black;*/
     color: rgb(255, 0, 0);
-    
 }
 h1 {
     color: red;
@@ -60,31 +58,52 @@ p {
     border: 2px dashed white;
     box-sizing: border-box;
 }
-.windowsnotes .sidenav a.sidenavlinks:nth-child(1) {
+.noteshome .sidenav a.sidenavlinks:nth-child(1) {
+    background-color: rgb(26, 26, 26);
+    font-size: 110%;
+}
+.windowsnotes .sidenav a.sidenavlinks:nth-child(2) {
     background-color: rgb(140, 0, 0);
     font-size: 110%;
     border: 3px solid white;
     box-sizing: border-box;
 }
-.linuxnotes .sidenav a.sidenavlinks:nth-child(2) {
+.linuxnotes .sidenav a.sidenavlinks:nth-child(3) {
     background-color: rgb(140, 0, 0);
     font-size: 110%;
     border: 3px solid white;
     box-sizing: border-box;
 }
-.networkingnotes .sidenav a.sidenavlinks:nth-child(3) {
+.networkingnotes .sidenav a.sidenavlinks:nth-child(4) {
+    background-color: rgb(140, 0, 0);
+    font-size: 110%;
+    border: 3px solid white;
+    box-sizing: border-box;
+}
+.docsnotes .sidenav a.sidenavlinks:nth-child(5) {
+    background-color: rgb(140, 0, 0);
+    font-size: 110%;
+    border: 3px solid white;
+    box-sizing: border-box;
+}
+.projects .sidenav a.sidenavlinks:nth-child(1) {
+    background-color: rgb(26, 26, 26);
+    font-size: 110%;
+}
+.iplocator .sidenav a.sidenavlinks:nth-child(2) {
+    background-color: rgb(140, 0, 0);
+    font-size: 110%;
+    border: 3px solid white;
+    box-sizing: border-box;
+}
+.wifigrabber .sidenav a.sidenavlinks:nth-child(3) {
     background-color: rgb(140, 0, 0);
     font-size: 110%;
     border: 3px solid white;
     box-sizing: border-box;
 }
 
-.iplocator .sidenav a.sidenavlinks:nth-child(1) {
-    background-color: rgb(140, 0, 0);
-    font-size: 110%;
-    border: 3px solid white;
-    box-sizing: border-box;
-}
+
 .sidenav {
     width: 200px;
     margin-left: -100px;
@@ -95,9 +114,8 @@ p {
     background: rgb(25, 25, 25);
     display: flex;
     margin: 0 auto;  
-    margin-top: -100px;
+    margin-top: -250px;
     border-radius: 25px;
-    
 }
 .notestext {
     margin-left: 25px;
@@ -131,4 +149,13 @@ td, th {
 #secret:hover {
     color: rgb(112, 112, 112);
 
+}
+.docs {
+    display: block;
+    margin-top: -100px;
+}
+
+#navbar {
+    height: 25px;
+    width: auto;
 }
